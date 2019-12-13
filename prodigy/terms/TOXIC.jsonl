@@ -1,0 +1,18 @@
+{"label": "TOXIC", "pattern": [{"LOWER": "fuck"}, {"LOWER": "off"}, {"LOWER": "\n"}]}
+{"label": "TOXIC", "pattern": [{"LEMMA": "fuck"}, {"LEMMA": "off"}, {"LEMMA": "\n"}]}
+{"label": "TOXIC", "pattern": [{"POS": "VERB"}, {"POS": "PART"}, {"POS": "SPACE"}]}
+{"label": "TOXIC", "pattern": [{"LOWER": "tebag"}, {"LOWER": "in"}, {"LOWER": "the"}, {"LOWER": "face"}, {"LOWER": "\n"}]}
+{"label": "TOXIC", "pattern": [{"LEMMA": "tebag"}, {"LEMMA": "in"}, {"LEMMA": "the"}, {"LEMMA": "face"}, {"LEMMA": "\n"}]}
+{"label": "TOXIC", "pattern": [{"POS": "NOUN"}, {"POS": "ADP"}, {"POS": "DET"}, {"POS": "NOUN"}, {"POS": "SPACE"}]}
+{"label": "TOXIC", "pattern": [{"LOWER": "BROOM"}, {"LOWER": "BROOM"}, {"LOWER": "CLEAN"}, {"LOWER": "MY"}, {"LOWER": "BUS"}, {"LOWER": "\n"}]}
+{"label": "TOXIC", "pattern": [{"LEMMA": "broom"}, {"LEMMA": "BROOM"}, {"LEMMA": "CLEAN"}, {"LEMMA": "MY"}, {"LEMMA": "BUS"}, {"LEMMA": "\n"}]}
+{"label": "TOXIC", "pattern": [{"POS": "ADJ"}, {"POS": "PROPN"}, {"POS": "PROPN"}, {"POS": "PROPN"}, {"POS": "PROPN"}, {"POS": "SPACE"}]}
+{"label": "TOXIC", "pattern": [{"LOWER": "SWEEP"}, {"LOWER": "MY"}, {"LOWER": "FLOOR"}, {"LOWER": "\n"}]}
+{"label": "TOXIC", "pattern": [{"LEMMA": "SWEEP"}, {"LEMMA": "MY"}, {"LEMMA": "FLOOR"}, {"LEMMA": "\n"}]}
+{"label": "TOXIC", "pattern": [{"POS": "PROPN"}, {"POS": "PROPN"}, {"POS": "PROPN"}, {"POS": "SPACE"}]}
+{"label": "TOXIC", "pattern": [{"LOWER": "DOGGY"}, {"LOWER": "DOGGY"}, {"LOWER": "\n"}]}
+{"label": "TOXIC", "pattern": [{"LEMMA": "doggy"}, {"LEMMA": "DOGGY"}, {"LEMMA": "\n"}]}
+{"label": "TOXIC", "pattern": [{"POS": "X"}, {"POS": "NOUN"}, {"POS": "SPACE"}]}
+{"label": "TOXIC", "pattern": [{"LOWER": "Poop"}, {"LOWER": "boy"}, {"LOWER": "\n"}]}
+{"label": "TOXIC", "pattern": [{"LEMMA": "Poop"}, {"LEMMA": "boy"}, {"LEMMA": "\n"}]}
+{"label": "TOXIC", "pattern": [{"POS": "PROPN"}, {"POS": "NOUN"}, {"POS": "SPACE"}]}

@@ -1,0 +1,33 @@
+{"label": "OBSCENE", "pattern": [{"LOWER": "Re"}, {"LOWER": "Radiojerk"}, {"LOWER": "talk"}, {"LOWER": "page"}, {"LOWER": "\n"}]}
+{"label": "OBSCENE", "pattern": [{"LEMMA": "re"}, {"LEMMA": "radiojerk"}, {"LEMMA": "talk"}, {"LEMMA": "page"}, {"LEMMA": "\n"}]}
+{"label": "OBSCENE", "pattern": [{"POS": "ADP"}, {"POS": "NOUN"}, {"POS": "NOUN"}, {"POS": "NOUN"}, {"POS": "SPACE"}]}
+{"label": "OBSCENE", "pattern": [{"LOWER": "BLOW"}, {"LOWER": "ME"}, {"LOWER": "\n"}]}
+{"label": "OBSCENE", "pattern": [{"LEMMA": "BLOW"}, {"LEMMA": "ME"}, {"LEMMA": "\n"}]}
+{"label": "OBSCENE", "pattern": [{"POS": "PROPN"}, {"POS": "PROPN"}, {"POS": "SPACE"}]}
+{"label": "OBSCENE", "pattern": [{"LOWER": "words"}, {"LOWER": "like"}, {"LOWER": "\""}, {"LOWER": "fuck"}, {"LOWER": "\""}, {"LOWER": "\n"}]}
+{"label": "OBSCENE", "pattern": [{"LEMMA": "word"}, {"LEMMA": "like"}, {"LEMMA": "\""}, {"LEMMA": "fuck"}, {"LEMMA": "\""}, {"LEMMA": "\n"}]}
+{"label": "OBSCENE", "pattern": [{"POS": "NOUN"}, {"POS": "ADP"}, {"POS": "PUNCT"}, {"POS": "NOUN"}, {"POS": "PUNCT"}, {"POS": "SPACE"}]}
+{"label": "OBSCENE", "pattern": [{"LOWER": "This"}, {"LOWER": "is"}, {"LOWER": "plain"}, {"LOWER": "vandalism"}, {"LOWER": "\n"}]}
+{"label": "OBSCENE", "pattern": [{"LEMMA": "this"}, {"LEMMA": "be"}, {"LEMMA": "plain"}, {"LEMMA": "vandalism"}, {"LEMMA": "\n"}]}
+{"label": "OBSCENE", "pattern": [{"POS": "DET"}, {"POS": "VERB"}, {"POS": "ADJ"}, {"POS": "NOUN"}, {"POS": "SPACE"}]}
+{"label": "OBSCENE", "pattern": [{"LOWER": "\""}, {"LOWER": "bitch"}, {"LOWER": "\""}, {"LOWER": "\n"}]}
+{"label": "OBSCENE", "pattern": [{"LEMMA": "\""}, {"LEMMA": "bitch"}, {"LEMMA": "\""}, {"LEMMA": "\n"}]}
+{"label": "OBSCENE", "pattern": [{"POS": "PUNCT"}, {"POS": "NOUN"}, {"POS": "PUNCT"}, {"POS": "SPACE"}]}
+{"label": "OBSCENE", "pattern": [{"LOWER": "\""}, {"LOWER": "cunt"}, {"LOWER": "\""}, {"LOWER": "\n"}]}
+{"label": "OBSCENE", "pattern": [{"LEMMA": "\""}, {"LEMMA": "cunt"}, {"LEMMA": "\""}, {"LEMMA": "\n"}]}
+{"label": "OBSCENE", "pattern": [{"POS": "PUNCT"}, {"POS": "ADJ"}, {"POS": "PUNCT"}, {"POS": "SPACE"}]}
+{"label": "OBSCENE", "pattern": [{"LOWER": "\""}, {"LOWER": "cock"}, {"LOWER": "\""}, {"LOWER": "\n"}]}
+{"label": "OBSCENE", "pattern": [{"LEMMA": "\""}, {"LEMMA": "cock"}, {"LEMMA": "\""}, {"LEMMA": "\n"}]}
+{"label": "OBSCENE", "pattern": [{"POS": "PUNCT"}, {"POS": "NOUN"}, {"POS": "PUNCT"}, {"POS": "SPACE"}]}
+{"label": "OBSCENE", "pattern": [{"LOWER": "\""}, {"LOWER": "shit"}, {"LOWER": "\""}, {"LOWER": "\n"}]}
+{"label": "OBSCENE", "pattern": [{"LEMMA": "\""}, {"LEMMA": "shit"}, {"LEMMA": "\""}, {"LEMMA": "\n"}]}
+{"label": "OBSCENE", "pattern": [{"POS": "PUNCT"}, {"POS": "X"}, {"POS": "PUNCT"}, {"POS": "SPACE"}]}
+{"label": "OBSCENE", "pattern": [{"LOWER": "getting"}, {"LOWER": "pissed"}, {"LOWER": "off"}, {"LOWER": "\n"}]}
+{"label": "OBSCENE", "pattern": [{"LEMMA": "get"}, {"LEMMA": "piss"}, {"LEMMA": "off"}, {"LEMMA": "\n"}]}
+{"label": "OBSCENE", "pattern": [{"POS": "VERB"}, {"POS": "VERB"}, {"POS": "PART"}, {"POS": "SPACE"}]}
+{"label": "OBSCENE", "pattern": [{"LOWER": "I"}, {"LOWER": "used"}, {"LOWER": "sockpuppets"}, {"LOWER": "\n"}]}
+{"label": "OBSCENE", "pattern": [{"LEMMA": "-PRON-"}, {"LEMMA": "use"}, {"LEMMA": "sockpuppet"}, {"LEMMA": "\n"}]}
+{"label": "OBSCENE", "pattern": [{"POS": "PRON"}, {"POS": "VERB"}, {"POS": "NOUN"}, {"POS": "SPACE"}]}
+{"label": "OBSCENE", "pattern": [{"LOWER": "\n"}]}
+{"label": "OBSCENE", "pattern": [{"LEMMA": "\n"}]}
+{"label": "OBSCENE", "pattern": [{"POS": "SPACE"}]}

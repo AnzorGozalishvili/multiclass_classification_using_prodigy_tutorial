@@ -1,0 +1,32 @@
+.ipynb_checkpoints/
+**/.ipynb_checkpoints/
+.pytest_cache/
+.idea/ __pycache__/
+*.pyc
+.ipynb
+**/.ipynb
+.idea
+*.idea/
+__pycache__/
+**/.idea
+*/*/.idea/
+*/.ipynb_checkpoints/
+*/*/.ipynb_checkpoints/
+*/__pycache__/
+*/*/__pycache__/
+*.tar.gz
+*.json.gz
+*/*.json.gz
+.*.swp
+*.o
+*.bin
+*.csv
+*.vec
+*.log
+
+# ignore all file in data directory except original dataset
+data/*
+!data/toxic_data.csv
+
+# ignore models
+prodigy/models/

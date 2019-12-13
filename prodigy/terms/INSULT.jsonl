@@ -1,0 +1,27 @@
+{"label": "INSULT", "pattern": [{"LOWER": "do"}, {"LOWER": "not"}, {"LOWER": "call"}, {"LOWER": "me"}, {"LOWER": "and"}, {"LOWER": "idiot"}, {"LOWER": "\n"}]}
+{"label": "INSULT", "pattern": [{"LEMMA": "do"}, {"LEMMA": "not"}, {"LEMMA": "call"}, {"LEMMA": "-PRON-"}, {"LEMMA": "and"}, {"LEMMA": "idiot"}, {"LEMMA": "\n"}]}
+{"label": "INSULT", "pattern": [{"POS": "VERB"}, {"POS": "ADV"}, {"POS": "VERB"}, {"POS": "PRON"}, {"POS": "CCONJ"}, {"POS": "VERB"}, {"POS": "SPACE"}]}
+{"label": "INSULT", "pattern": [{"LOWER": "you"}, {"LOWER": "are"}, {"LOWER": "an"}, {"LOWER": "idiot"}, {"LOWER": "\n"}]}
+{"label": "INSULT", "pattern": [{"LEMMA": "-PRON-"}, {"LEMMA": "be"}, {"LEMMA": "an"}, {"LEMMA": "idiot"}, {"LEMMA": "\n"}]}
+{"label": "INSULT", "pattern": [{"POS": "PRON"}, {"POS": "VERB"}, {"POS": "DET"}, {"POS": "NOUN"}, {"POS": "SPACE"}]}
+{"label": "INSULT", "pattern": [{"LOWER": "lied"}, {"LOWER": "on"}, {"LOWER": "my"}, {"LOWER": "RFC"}, {"LOWER": "\n"}]}
+{"label": "INSULT", "pattern": [{"LEMMA": "lie"}, {"LEMMA": "on"}, {"LEMMA": "-PRON-"}, {"LEMMA": "RFC"}, {"LEMMA": "\n"}]}
+{"label": "INSULT", "pattern": [{"POS": "VERB"}, {"POS": "ADP"}, {"POS": "DET"}, {"POS": "PROPN"}, {"POS": "SPACE"}]}
+{"label": "INSULT", "pattern": [{"LOWER": "He"}, {"LOWER": "'s"}, {"LOWER": "a"}, {"LOWER": "liar"}, {"LOWER": "\n"}]}
+{"label": "INSULT", "pattern": [{"LEMMA": "-PRON-"}, {"LEMMA": "be"}, {"LEMMA": "a"}, {"LEMMA": "liar"}, {"LEMMA": "\n"}]}
+{"label": "INSULT", "pattern": [{"POS": "PRON"}, {"POS": "VERB"}, {"POS": "DET"}, {"POS": "NOUN"}, {"POS": "SPACE"}]}
+{"label": "INSULT", "pattern": [{"LOWER": "i"}, {"LOWER": "am"}, {"LOWER": "insulted"}, {"LOWER": "\n"}]}
+{"label": "INSULT", "pattern": [{"LEMMA": "i"}, {"LEMMA": "be"}, {"LEMMA": "insult"}, {"LEMMA": "\n"}]}
+{"label": "INSULT", "pattern": [{"POS": "PRON"}, {"POS": "VERB"}, {"POS": "VERB"}, {"POS": "SPACE"}]}
+{"label": "INSULT", "pattern": [{"LOWER": "idiot"}, {"LOWER": "vandalising"}, {"LOWER": "\n"}]}
+{"label": "INSULT", "pattern": [{"LEMMA": "idiot"}, {"LEMMA": "vandalising"}, {"LEMMA": "\n"}]}
+{"label": "INSULT", "pattern": [{"POS": "NOUN"}, {"POS": "NOUN"}, {"POS": "SPACE"}]}
+{"label": "INSULT", "pattern": [{"LOWER": "Are"}, {"LOWER": "you"}, {"LOWER": "a"}, {"LOWER": "sock"}, {"LOWER": "puppet"}, {"LOWER": "of"}, {"LOWER": "his"}, {"LOWER": "\n"}]}
+{"label": "INSULT", "pattern": [{"LEMMA": "be"}, {"LEMMA": "-PRON-"}, {"LEMMA": "a"}, {"LEMMA": "sock"}, {"LEMMA": "puppet"}, {"LEMMA": "of"}, {"LEMMA": "-PRON-"}, {"LEMMA": "\n"}]}
+{"label": "INSULT", "pattern": [{"POS": "VERB"}, {"POS": "PRON"}, {"POS": "DET"}, {"POS": "NOUN"}, {"POS": "NOUN"}, {"POS": "ADP"}, {"POS": "DET"}, {"POS": "SPACE"}]}
+{"label": "INSULT", "pattern": [{"LOWER": "what"}, {"LOWER": "is"}, {"LOWER": "your"}, {"LOWER": "new"}, {"LOWER": "user"}, {"LOWER": "name"}, {"LOWER": "\n"}]}
+{"label": "INSULT", "pattern": [{"LEMMA": "what"}, {"LEMMA": "be"}, {"LEMMA": "-PRON-"}, {"LEMMA": "new"}, {"LEMMA": "user"}, {"LEMMA": "name"}, {"LEMMA": "\n"}]}
+{"label": "INSULT", "pattern": [{"POS": "PRON"}, {"POS": "VERB"}, {"POS": "DET"}, {"POS": "ADJ"}, {"POS": "NOUN"}, {"POS": "NOUN"}, {"POS": "SPACE"}]}
+{"label": "INSULT", "pattern": [{"LOWER": "translated"}, {"LOWER": "much"}, {"LOWER": "more"}, {"LOWER": "clumsy"}, {"LOWER": "\n"}]}
+{"label": "INSULT", "pattern": [{"LEMMA": "translate"}, {"LEMMA": "much"}, {"LEMMA": "more"}, {"LEMMA": "clumsy"}, {"LEMMA": "\n"}]}
+{"label": "INSULT", "pattern": [{"POS": "VERB"}, {"POS": "ADV"}, {"POS": "ADV"}, {"POS": "ADJ"}, {"POS": "SPACE"}]}
