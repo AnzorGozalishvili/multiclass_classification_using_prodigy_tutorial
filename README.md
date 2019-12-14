@@ -1,6 +1,13 @@
-# multiclass_classification_using_prodigy_tutorial
-In this tutorial I will show an example of multiclass text classification using prodigy and spacy. 
+# Toxic Comments Classification using Prodigy Labeling Tool
+Author: Anzor Gozalishvili
+Date: 14/12/2019
+Time: 6 hrs total.
 
+Description:
+In this tutorial I will show an example of multi-class text classification using prodigy and spacy. 
+It goes from basic data preprocessing to phrases collection, teaching terms using boostraping technique 
+then label each class separately, train classifier and evaluate. Also conversion of spacy model into package 
+to make it simple to load and use.
 
 # Preprocess Data
 See data preprocessing in ``notebooks/data_preparation.ipynb``

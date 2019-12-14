@@ -34,4 +34,6 @@ prodigy/models/
 # ignore local db
 prodigy/db/
 
-
+# ignore all other formats except txt
+prodigy/terms/*
+!prodigy/terms/*.txt
