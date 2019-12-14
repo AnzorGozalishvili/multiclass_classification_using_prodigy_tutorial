@@ -77,4 +77,4 @@ if __name__ == '__main__':
             for term_pattern in term_patterns:
                 generated_patterns.append({"label": class_name, "pattern": term_pattern})
 
-        patterns_to_jsonl(generated_patterns, os.path.join(terms_out_dir, f'{class_name}.jsonl'))
+        patterns_to_jsonl(generated_patterns, os.path.join(terms_out_dir, f'{class_name.lower()}.jsonl'))
