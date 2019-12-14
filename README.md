@@ -1,9 +1,11 @@
 # Toxic Comments Classification using Prodigy Labeling Tool
-Author: Anzor Gozalishvili
-Date: 14/12/2019
-Time: 6 hrs total.
+**Author**: Anzor Gozalishvili
 
-Description:
+**Date**: 14/12/2019
+
+**Time**: 6 hrs total.
+
+**Description**:
 In this tutorial I will show an example of multi-class text classification using prodigy and spacy. 
 It goes from basic data preprocessing to phrases collection, teaching terms using boostraping technique 
 then label each class separately, train classifier and evaluate. Also conversion of spacy model into package 
