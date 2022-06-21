@@ -1,5 +1,5 @@
 en-core-web-lg==2.1.0
-numpy==1.17.3
+numpy==1.22.0
 pandas==0.25.2
 prodigy==1.8.5
 scikit-learn==0.21.3
